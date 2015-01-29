@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html ng-app='sciencv'>
+	<head>
+		<meta charset="UTF-8">
+		<title>SciENcv using AngularJS</title>
+		<script src="js/angular.min.js"></script>
+		<script src="js/displaycv.js"></script>
+		<script src="js/scvfilters.js"></script>
+		<style type="text/css">
+			@import url("bootstrap/css/bootstrap.min.css");
+		</style>
+	</head>
+	<body>
+		<div id="cvContainer" ng-app="sciencv">
+			<h2>SciENcv</h2>
+			<section id="personalInfo" ng-controller="personalInformation as pinfo">
+				<h4>1. Personal Information</h4>
+				<div class="presentedName">
+					<strong>Name: </strong> {{ pinfo.displayData.identification.name[0].givennames.$ + ' ' +  pinfo.displayData.identification.name[0].surname.$ | decodeuri }}
+				</div>
+			</section>
+		</div>
+	</body>
+</html>

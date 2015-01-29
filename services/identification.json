@@ -1,0 +1,108 @@
+{"identification": { "id":[{
+          "_idtype":"orcid",
+          "$": "0000-0003-0233-7734"
+          }],"account":[],"name":[ {
+          "_current": "yes",
+          "salutation": {
+          "$": ""
+          },
+          "prefix": {
+          "$": ""
+          },
+          "givennames": {
+          "$": "%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%A6%E0%A5%80%E0%A4%AA"
+          },
+          "surname": {
+          "$": "%E0%A4%9A%E0%A4%A8%E0%A5%8D%E0%A4%A6"
+          },
+          "suffix": {
+          "$": ""
+          },
+          "presentedname": {
+          "$": ""
+          }
+          }],"birthdate":{},"phone":[],"mailingaddress":[ {
+          "_current": "yes",
+          "_addresstype": "",
+           "streetaddressline":[{"$": ""},{"$": ""},{"$": ""},{"$": ""},{"$": ""},{"$": ""},{"$": ""},{"$": ""},{"$": ""},{"$": ""}],     
+          "city": {
+          "$": "Kathmandu"
+          },
+          "stateorprovince": {
+          "$": ""
+          },
+          "country": {
+          "$": "Nepal"
+          },
+          "postalcode": {
+          "$": ""
+          }
+          }, {
+          "_current": "yes",
+          "_addresstype": "",
+           "streetaddressline":[{"$": ""},{"$": ""},{"$": ""},{"$": ""},{"$": ""},{"$": ""},{"$": ""},{"$": ""},{"$": ""},{"$": ""}],     
+          "city": {
+          "$": ""
+          },
+          "stateorprovince": {
+          "$": ""
+          },
+          "country": {
+          "$": "USA"
+          },
+          "postalcode": {
+          "$": ""
+          }
+          }, {
+          "_current": "yes",
+          "_addresstype": "",
+           "streetaddressline":[{"$": ""},{"$": ""},{"$": ""},{"$": ""},{"$": ""},{"$": ""},{"$": ""},{"$": ""},{"$": ""},{"$": ""}],     
+          "city": {
+          "$": ""
+          },
+          "stateorprovince": {
+          "$": ""
+          },
+          "country": {
+          "$": "asdfsdf"
+          },
+          "postalcode": {
+          "$": ""
+          }
+          }, {
+          "_current": "yes",
+          "_addresstype": "",
+           "streetaddressline":[{"$": ""},{"$": ""},{"$": ""},{"$": ""},{"$": ""},{"$": ""},{"$": ""},{"$": ""},{"$": ""},{"$": ""}],     
+          "city": {
+          "$": ""
+          },
+          "stateorprovince": {
+          "$": ""
+          },
+          "country": {
+          "$": "U.S."
+          },
+          "postalcode": {
+          "$": ""
+          }
+          }, {
+          "_current": "yes",
+          "_addresstype": "",
+           "streetaddressline":[{"$": ""},{"$": ""},{"$": ""},{"$": ""},{"$": ""},{"$": ""},{"$": ""},{"$": ""},{"$": ""},{"$": ""}],     
+          "city": {
+          "$": ""
+          },
+          "stateorprovince": {
+          "$": ""
+          },
+          "country": {
+          "$": ""
+          },
+          "postalcode": {
+          "$": ""
+          }
+          }],"emailaddress":[ {
+          "_current": "yes",
+          "_addresstype": "",
+          "$": ""
+          }],"webaddress":[]}}
